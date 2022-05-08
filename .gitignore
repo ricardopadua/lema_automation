@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+lema_automation.log
+.env
 
 # C extensions
 *.so
